@@ -1,66 +1,4 @@
-# Computer Science and Programming - Version 4.0
-
-Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./project_ideas.md) to help you select projects.
-
-**Note:** Prior guides have been deprecated but are still available [here](./deprecated/README.md)
-
-## Table of Contents
-
-### Junior developer
-
-If you want to develop the skills necessary to be 'job ready' for a junior developer position - complete tier X, 0, and 1.
-
-- [tier X - Math Prep](#tier-x---math-prep)
-- [tier X - Programming Prep Prep](#tier-x---programming-prep-prep)
-- [tier 0 - Programming Prep](#tier-0---web-development---fullstack-bootcamp---app-academy-open)
-- [tier 1 - Getting Started](#tier-1---getting-started)
-
-### Intermediate developer
-
-If you want to develop the skills necessary to move beyond junior to intermediate developer - once you've finished tiers X, 0 and 1, proceed to complete tiers 2 and 3.
-
-- [tier 2 - Develop More Expertise](#tier-2---develop-more-expertise)
-- [tier 3 - Add More Rigor](#tier-3---add-more-rigor)
-
-### Senior developer
-
-If you want to develop the skills necessary to move beyond intermediate to senior developer - once you've finished tiers X, 0, 1, 2, and 3, proceed to complete tiers 4 and 5.
-
-- [tier 4 - Polish the Rough Edges](#tier-4---polish-the-rough-edges)
-- [tier 5 - Specialize](#tier-5---specialize)
-
-### Specializations
-
-Each tier has a 'specialization' based capstone which involves further study and extensive practice in an area of your choosing. [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) is highly recommended (but not required) as the first specialization. Beyond that, feel free to complete a different specialization each tier, or dive deeply into a specialization by selecting it during multiple tiers to explore it in greater detail and further develop your specialized profile.
-
-- [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) (recommended, but not required, first specialization)
-- [Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2019](./specializations/full_stack_open_2019.md)
-- [Web Development - Fullstack Bootcamp - The Odin Project](./specializations/the_odin_project.md)
-- [Web Development - Frontend](./specializations/frontend.md)
-- [Web Development - Backend](./specializations/backend.md)
-- [Mobile App Development](./specializations/mobile.md)
-- [Game Development](./specializations/games.md)
-- [Open Source Contributions](./specializations/open_source.md)
-
-### Advanced Specializations
-
-The following specializations rely on knowledge gained in earlier tiers. Additionally, they are typically 'more difficult' or will require more work than those listed above.
-
-- [Computer Science - Algorithms](./specializations/algorithms.md) -Suggested for Tier 2 or later
-- [Computer Science - Advanced Algorithms](./specializations/advanced-algorithms.md) - Computer Science - Algorithms is a pre-requisite
-- [Computer Science - Intensive](./specializations/computer_science.md) - Suggested for Tier 4 or later
-- [Data Science I](./specializations/data-science-i.md) - Suggested for Tier 2 or later
-- [Data Science II](./specializations/data-science-ii.md) - Data Science I is a pre-requisite
-
-### Tier Programming Projects
-
-Both tiers and specializations will require 'Tier Programming Projects', you are free to select any programming project you want. To help combat the 'but I don't know what I want' roadblock, [Tier Programming Project Ideas](./project_ideas.md) lists a variety of ideas.
-
-**Note:** In specializations, the Tier Programming Projects might have extra criteria (such as 'if you're doing a mobile app development specialization your projects must be mobile apps')
-
-## Junior developer
-
-### Tier X - Math Prep
+### Math
 
 Math will be relevant throughout the guide. Begin it as you start the guide, and incrementally work through it alongside the guide. (You need not finish this before moving to tier 0, or tier 1, but be actively working on it alongside them.)
 
@@ -70,39 +8,8 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
+| [Precalculus](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about)   |        |
 
-### Tier X - Programming Prep Prep
-
-A very gentle introduction, complete if feel you would benefit from it, skip if you'd rather dive right into tier 0
-
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |            |
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |            |
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |
-| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
-
-### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
-
-Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp.
-
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
-| Full Stack Online - Ruby                                                                                                                                              |            |              |
-| Full Stack Online - SQL                                                                                                                                               |            |              |
-| Full Stack Online - Rails                                                                                                                                             |            |              |
-| Full Stack Online - JavaScript                                                                                                                                        |            |              |
-| Full Stack Online - React                                                                                                                                             |            |              |
-| Full Stack Online - Full Stack Project                                                                                                                                |            |              |
-| Full Stack Online - Job Search                                                                                                                                        |            |              |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
 ### Tier 1 - Getting Started
 
@@ -111,7 +18,7 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 | Courses                                                                                                                                                                                                                                                                                                                                                        |   Status   |   Evidence   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                                                                                                                                                                                                                                       |            |
-| [How to Learn Math: For Students](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about)                                                                                                                                                                                                                                                  |            |
+
 | [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)                                                                                                                                                                                                                               |            |
 | [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) (more rigorous) or [Khan Academy Calculus I](https://www.khanacademy.org/math/calculus-1) and [Khan Academy Calculus II](https://www.khanacademy.org/math/calculus-2) (a more gentle introduction)                                             |            |
 | [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)                                                                                                                                                                                                                                                                                |            |

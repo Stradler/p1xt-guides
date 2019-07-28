@@ -11,7 +11,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 | [Math for studentes](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about)   |        |
 
 
-### Tier 1 - Getting Started
+### Getting Started
 
 Deepen understanding of Web Development and begin learning Computer Science topics
 
@@ -37,11 +37,7 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 | **Specialization**                                                                                                                                                                                                                                                                                                                                             | **Status** | **Evidence** |
 | Complete a [Specialization](#specializations) - note: you will have the opportunity to complete a specialization in each tier so don't worry overmuch about picking 'the right one'. That said, if you didn't do App Academy in Tier 0 [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) is highly recommended. |            |
 
-<br><br>
-
-## Intermediate Developer
-
-### Tier 2 - Develop More Expertise
+### Develop More Expertise
 
 Dive deeper into the Computer Science topics which will prove useful throughout all programming
 
@@ -72,7 +68,7 @@ Dive deeper into the Computer Science topics which will prove useful throughout 
 | **Specialization**                                                                                                                                                                                                 | **Status** | **Evidence** |
 | Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization              |            |
 
-### Tier 3 - Add More Rigor
+### Add More Rigor
 
 Dive deeper yet, exploring algorithms and different programming paradigms
 
@@ -108,9 +104,7 @@ Dive deeper yet, exploring algorithms and different programming paradigms
 
 <br><br>
 
-## Senior Developer
-
-### Tier 4 - Polish the Rough Edges
+### Polish the Rough Edges
 
 Wrap up by taking a look at some specific areas of computing to complete a breadth of knowledge that can be leveraged regardless of specialty
 
@@ -139,17 +133,3 @@ Wrap up by taking a look at some specific areas of computing to complete a bread
 | Tier Programming Project                                                                                                                                                                              |            |
 | **Specialization**                                                                                                                                                                                    | **Status** | **Evidence** |
 | Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization |            |
-
-### Tier 5 - Specialize
-
-Wrap up by diving more deeply into your specialization(s). If you haven't already done an [Advanced Specialization](#advanced-specializations), strongly consider including it in this tier. Beyond that, feel free to laser focus on one specialization, practicing more in that area, or branch out and develop expertise across multiple specializations.
-
-| **Practice**                                                                                                                                                                    | **Status** | **Evidence** |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |
-| **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |

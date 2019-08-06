@@ -1,3 +1,4 @@
+https://github.com/P1xt/p1xt-guides/blob/master/specializations/data-science-i.md
 ### Math
 
 Math will be relevant throughout the guide. Begin it as you start the guide, and incrementally work through it alongside the guide. (You need not finish this before moving to tier 0, or tier 1, but be actively working on it alongside them.)

@@ -9,7 +9,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
-| [Math for studentes](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about)   |        |
+| [Math for studentes](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about)   |  x      | i know math, probably
 
 
 ### Getting Started
